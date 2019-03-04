@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3 BA",
-    "currentPage": "index.html",
+    "currentPage": "Boek.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -39,7 +39,7 @@
       "settings": {
         "main": true,
         "title": "Template",
-        "meta_descr": "Website Builder Description<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126738082-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-126738082-1');\n</script>",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
